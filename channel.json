@@ -1,0 +1,3176 @@
+[
+  {
+    "name": "🏆 EVENTOS TIGO PY",
+    "samples": [
+      {
+        "name": "VS SPORTS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=a2624484ee4d8c41bac4d41eee323773&key=b58f5c587f8ba08e1132243b139ba4d4",
+        "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EVENTOS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=ed7b0d73a158d03e65fc777d324e25aa&key=e751bb7d094949ad14e5cbc6827979bb",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EVENTOS 2",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e2d826c634f1c4013859ddd16f5bac42&key=44424471e931147ae3d5c0f0e732d73d",
+        "icono": "https://i.ibb.co/3WZtzG3/eventos-py.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EVENTOS TIGO",
+        "uri": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
+        "name": "EVENTOS PY",
+        "uri": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
+        "name": "TIGO SPORTS 24/7",
+        "uri": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/500px-Tigo_Sports_2025.png"
+      }
+    ]
+  },
+  {
+    "name": "🏆 STREAMING EVENTOS",
+    "samples": [
+      {
+        "name": "DISNEY+",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney1"
+      },
+      {
+        "name": "DISNEY+ 2",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney2"
+      },
+      {
+        "name": "DISNEY+ 3",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney3"
+      },
+      {
+        "name": "DISNEY+ 4",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney4"
+      },
+      {
+        "name": "DISNEY+ 5",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney5"
+      },
+      {
+        "name": "DISNEY+ 6",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney6"
+      },
+      {
+        "name": "DISNEY+ 7",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney7"
+      },
+      {
+        "name": "DISNEY+ 8",
+        "icono": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=disney8"
+      },
+      {
+        "name": "VIX+",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix1"
+      },
+      {
+        "name": "VIX+ 2",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix2"
+      },
+      {
+        "name": "VIX+ 3",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix3"
+      },
+      {
+        "name": "VIX+ 4",
+        "icono": "https://images2.revistafama.com/QVIvxmNOa5BpvDHQOgRlocSoMHA=/320x200/uploads/media/2026/07/22/gratis-lcdlf-mexico-vix-premium.jpg",
+        "uri": "https://streamxhd.sbs/live1.php?stream=vix4"
+      }
+    ]
+  },
+  {
+    "name": "🇵🇾 TV PARAGUAY",
+    "samples": [
+      {
+        "name": "SNT",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=a64f7643405eb504a6634036a96705e3&key=e8c404746c8622774e35eba67fcc8623",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "TELEFUTURO",
+        "uri": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.imgur.com/6lVrFvb.png"
+      },
+      {
+        "name": "MONUMENTAL 1080 AM",
+        "uri": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.imgur.com/kEcOYML.png"
+      },
+      {
+        "name": "NPY",
+        "uri": "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
+      },
+      {
+        "name": "TRECE",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2g_asOsN2SyRS2jBzWLyuHtCjNAjYIVNRn-hiqu0zw&s=10"
+      },
+      {
+        "name": "UNICANAL",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png"
+      },
+      {
+        "name": "MEGA TV",
+        "uri": "https://www.desde-paraguay.com/mega.m3u8",
+        "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+      },
+      {
+        "name": "PARAGUAY TV",
+        "uri": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KeH_DRcDH-my7B90GpKy2o_pg0yhVCwnC-AfTgKPOg&s=10"
+      },
+      {
+        "name": "CANAL PRO",
+        "uri": "https://www.desde-paraguay.com/pro.m3u8",
+        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png"
+      },
+      {
+        "name": "SURTV",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "PARAVISIÓN",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+        "icono": "https://i.ibb.co/FXnvNPk/paravision.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "C9N",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=ed6a4c25be366a68b9758a24900fd7fc&key=ed523316b354cd5b1b99b3f9e6a99af5",
+        "icono": "https://i.postimg.cc/YCrvYC8K/c9n.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "GEN",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1847.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0nrQmGCRDxjlu3vedbv8JTwSvinBoemAZYpTIOMKQ&s=10"
+      },
+      {
+        "name": "POPU TV",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=ff2c94143de42e334c7ee3e081224ee4&key=558c45cc6a1c9aa0b3ea99895196c6e4",
+        "icono": "https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "LA TELE",
+        "uri": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/Zg861M4/latele.png"
+      },
+      {
+        "name": "ÑANDUTI TV",
+        "uri": "https://nanduti.b-cdn.net/Source.m3u8",
+        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png"
+      },
+      {
+        "name": "ABC TV",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+        "icono": "https://i.ibb.co/dGqjksf/descarga.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "AMERICA PY",
+        "uri": "https://america-live.argosworkspace.com/america/index.m3u8",
+        "icono": "https://i.ibb.co/FbvZ6t5t/america-py.png"
+      },
+      {
+        "name": "A24",
+        "uri": "https://a24-live.argosworkspace.com/a24/index.m3u8",
+        "icono": "https://i.ibb.co/ZpPpv9tJ/a24-py.png"
+      },
+      {
+        "name": "HEI",
+        "uri": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "https://i.imgur.com/oMHiGRN.png"
+      },
+      {
+        "name": "EDUCANAL",
+        "uri": "https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8",
+        "icono": "https://i.imgur.com/857OkFf.png"
+      },
+      {
+        "name": "VENUS MEDIA",
+        "uri": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2fu92BzpGT51fo_D33BCXw0LOQGYsLebIrQtFQKwgQ&s=10"
+      },
+      {
+        "name": "ROCK & POP",
+        "uri": "https://rds3gen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8",
+        "icono": "https://i.ibb.co/MMYLRZV/rocka.png"
+      },
+      {
+        "name": "E40",
+        "uri": "https://rds3tf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/jz9XkvP/e40.png"
+      },
+      {
+        "name": "RADIO FARRA",
+        "uri": "https://stream.farra.com.py/live/farra.m3u8",
+        "icono": "https://i.ibb.co/99DzY4J/farra-play.png"
+      },
+      {
+        "name": "BRUNO MASI TV",
+        "uri": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+        "icono": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png"
+      },
+      {
+        "name": "NEXT",
+        "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+        "icono": "https://i.imgur.com/c2rF3SS.png"
+      },
+      {
+        "name": "4D MÁS NOTICIAS",
+        "uri": "https://rds3gen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png"
+      },
+      {
+        "name": "ASPEN",
+        "uri": "https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8",
+        "icono": "https://i.ibb.co/sJRyc31/aspen-classic.png"
+      },
+      {
+        "name": "UNIÓN TV",
+        "uri": "https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+        "icono": "https://i.imgur.com/No9YzNC.png"
+      },
+      {
+        "name": "RADIO/TV REPÚBLICA 101.3 FM",
+        "uri": "https://rds3gen.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsocfQtHbssuQB49mOi3jkeR8oH-sHddE5Ry2HH_nxmo_lhZ3U7nU107P&s=10"
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "uri": "https://rds3gen.desdeparaguay.net/productivatv/productivatv_baja/chunklist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUBbH49dP7YGSmYaWY_Vwgg7OKvJ4QTnaJ1gvCW5jOw&s=10"
+      },
+      {
+        "name": "CANAL 12  REGIONAL TV",
+        "uri": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "icono": "https://i.ibb.co/0nRfZNd/canal12regional.png"
+      },
+      {
+        "name": "MI TV ITAPÚA",
+        "uri": "https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
+        "icono": "https://i.ibb.co/6RqpxYR/mitv.png"
+      },
+      {
+        "name": "VISIÓN TV VILLARRICA",
+        "uri": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHa-ueinqVx_A96FyJeTczE56yKBGrTFtyg8PA_k0eg&s=10"
+      },
+      {
+        "name": "CÁRITAS TV",
+        "uri": "https://rds3gen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUBbH49dP7YGSmYaWY_Vwgg7OKvJ4QTnaJ1gvCW5jOw&s=10"
+      },
+      {
+        "name": "ÑANDEJARA ÑE´E TV",
+        "uri": "https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtnV_mSgh3_41dMG3e1Wyv09S6uEI6NGb5DKBsITumA&s=10"
+      },
+      {
+        "name": "RCC",
+        "uri": "https://rds3.desdeparaguay.net/rcctv/rcctv/playlist.m3u8",
+        "icono": "https://yt3.googleusercontent.com/XOx7P3g2qonS4NFT7LfAZWBazUKoXUo6liMfqM2wP0SSafroFtQ5ylOg1-wn_pmNWip3eaDaU2o=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TV CHAQUEÑA",
+        "uri": "https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCH8N-gMcDgYciwiqMYruF8qq4-RRg28QqgcfpZ8rjw&s=10"
+      },
+      {
+        "name": "TVA CORONEL OVIEDO",
+        "uri": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjoxPHrtLcDBykodEc3e9IMjpLm4zzyF3LBrAvAOJg&s=10"
+      }
+    ]
+  },
+  {
+    "name": "🏆 ESPN",
+    "samples": [
+      {
+        "name": "ESPN LPF",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=c502892e037a9f34827147b2b24e42cf&key=2531bd34bec6c0e8fa4e07aedb261ade",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjb8xYYksAq7ZqpK1h_34Y4TtSblkFF10pnhH8_o3XPR8IqGbYwivYZU4&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmrojjvvtDE6CEn5tfBhPpFO6OEeWT8MeT4mvuhqB71Wq9wsJ_uhllR2c&s=10",
+        "uri": "http://151.245.32.107:8080/ctv/405.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "ESPN ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d079ffa3757e8335611fc48be6ba47ff&key=05059d1cb21b6708a55e9c26fb38e2f3",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 2 ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e6eab53cf8ea962b999c59c298596a65&key=10c103ae76f99620d66fa75f2c03302a",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 3 ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=deeed0f44c6b45e064f4d5064486e821&key=bf89ceeb93564ddc603ba6afd8c9266a",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 4 ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d02981e6faeacef49c90fdb053ab641d&key=645e13624e933841b1ea35cda1b55bd1",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 5 ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d02981e6faeacef49c90fdb053ab641d&key=645e13624e933841b1ea35cda1b55bd1",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 6 ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 7 ARG",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=fdac9b45f19959b848f498c8efe15d12&key=c2a6e7acabc370ef792ffacc5e2610a9",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN URU",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e95fe84b9f73e6655fde711d5c896056&key=267a0e514deb984803bec43cc607c4cb",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN PRY",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=88003c992a67f3221dc4502fcf4a8086&key=dade5af67461fdacecb721dbbb500fb1",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 2 URU",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3f2e12c72e1a011be0569fbd9ca486ab&key=1273deabb3c043560fe264dd2b1690f1",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 2 PRY",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=4877bd947da661d72eb9cd6c42c0767b&key=d103d5e7c2d80f17e72b13f88071681c",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN 3 URU-PRY",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3f2e12c72e1a011be0569fbd9ca486ab&key=1273deabb3c043560fe264dd2b1690f1",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "ESPN MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163",
+        "uri": "http://151.245.32.107:8080/ctv/401.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "ESPN 2 MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163",
+        "uri": "http://151.245.32.107:8080/ctv/378.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "ESPN 3 MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163",
+        "uri": "http://151.245.32.107:8080/ctv/1110.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "ESPN 4 MX",
+        "icono": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163",
+        "uri": "http://151.245.32.107:8080/ctv/404.m3u8",
+        "type": "hls",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "ESPN DEPORTES",
+        "uri": "http://151.245.32.107:8080/ctv/1165.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rPMfgRk27gmjBxJ7t05VQM-mquFf9_urdwl25TDv6g&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🏆 DAZN PACK",
+    "samples": [
+      {
+        "name": "DAZN 1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn1"
+      },
+      {
+        "name": "DAZN 2",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn2"
+      },
+      {
+        "name": "DAZN 3",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn3"
+      },
+      {
+        "name": "DAZN 4",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn4"
+      },
+      {
+        "name": "DAZN LALIGA",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://tvf90.com/online.php?stream=dazn_laliga"
+      },
+      {
+        "name": "DAZN F1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "DAZN COMBAT",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
+      },
+      {
+        "name": "DAZN RINGSIDE",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://a.tubi1.apollo.adrise.io/live/dazn-ringside-mzlqsq.m3u8"
+      },
+      {
+        "name": "DAZN FAST",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_iYfzg5DSQCAXg7ONRaroi88RIoYlAJ695EaS_bLyw&s=10",
+        "uri": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8bcec6b31cc9edcb6768ab26548e22c3&key=e3c5b07328894c33734a4de6ae55a87f",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🏆 MAS DEPORTES",
+    "samples": [
+      {
+        "name": "FLOW SPORTS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=fdb996352a45b339b86f3eb336af36c6&key=21b8543c13b2b87e0e097602a71f3f91",
+        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FLOW SPORTS 2",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=02c5f46dec4c3feadde6f5b0b0c6e9b6&key=89186f8c250f8291b4211ac1b2bdc103",
+        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DSPORTS",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AivAndroidPlayer/1.0 (AndroidDevice) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DSPORTS 2",
+        "uri": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AivAndroidPlayer/1.0 (AndroidDevice) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DSPORTS +",
+        "uri": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AivAndroidPlayer/1.0 (AndroidDevice) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PLUTO DEPORTES",
+        "icono": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png?format=webp&trim=true",
+        "uri": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "Origin": "https://pluto.tv",
+          "Referer": "https://pluto.tv/"
+        }
+      },
+      {
+        "name": "PLUTO FUTBOL",
+        "icono": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1766080575034.png?format=webp&trim=true",
+        "uri": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8?appName=web",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "Origin": "https://pluto.tv",
+          "Referer": "https://pluto.tv/"
+        }
+      },
+      {
+        "name": "BEIN SPORTS Ñ CA",
+        "uri": "https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=11111111111111118111000000000000&key=fdee3698ea4f78fb92ff11dbc3d49028",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36"
+        }
+      },
+      {
+        "name": "BEIN SPORTS Ñ USA",
+        "uri": "http://151.245.32.107:8080/ctv/90.m3u8",
+        "type": "hls",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "BEIN SPORTS XTRA Ñ",
+        "icono": "https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png",
+        "uri": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "M+ LIGA DE CAMPEONES",
+        "uri": "http://151.245.32.107:8080/ctv/616.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0gccEnJarwzMbI_ziQfHngfjR_OWAPfuPKJEuVRDhMwLAghPHQGvLIQ&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "TYC SPORTS",
+        "uri": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+        }
+      },
+      {
+        "name": "TYC SPORTS INT",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e7880e1b0d50ca324646b9d73d781e1f&key=2bef2d7912ee52310d421c1d7756d072",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "TYC SPORTS FAN",
+        "uri": "https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQ5Ho-kHmogi_PzgR205SUuIajQW4FAIGSO33cIcIXQ&s=10",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+        }
+      },
+      {
+        "name": "TNT SPORTS AR",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=9fb56301bc7687baf0b1a61def9a007a&key=947d2294ba67256827e8e97f267e71e0",
+        "icono": "https://cdn.aptoide.com/imgs/4/2/f/42f9af941ee13c06b9a90420f2accc64_icon.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FOX SPORTS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=37730b00a5f92084c47a8129e84559f3&key=a2e20a45a057ff4e7c0bc2ad49e6f3e5",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/979.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=1b0ab680ef94a1842185fa78a830cbd7&key=23129ab5572aeda7607c920655c0dbea",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2785.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=4629bd0ae30c0e72af111fb948fada1c&key=7864154c679e769e7f164ba083c8fad3",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2366.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "NACION DEPORTES",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
+      },
+      {
+        "name": "NACION DEPORTES 2",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
+      },
+      {
+        "name": "NACION DEPORTES 3",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
+      },
+      {
+        "name": "ND PREMIUM",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1IrML8pQa70l0cnrc7RtryeftgXpxc--OpClm8uHSeA&s=10"
+      },
+      {
+        "name": "FOX DEPORTES",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=d1a163914db8ffad2c3e94f979896a0d&key=9728800a3959aafdd5b0bcfbf3768811",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnWoMgNNVSs7Mz64A3PW7Q_N9oFYapHkwLX8ol_hM2w&s=10",
+        "headers": {
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/"
+        }
+      },
+      {
+        "name": "FOX TUBI",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
+        "icono": "https://foxone.asset.viewlift.com/images/2025/12/01/fox-tubi-logo-1764604643459.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=8ec2e6248abe2e10e16e439c9b85ffd8&key=f121b015c2a5197828355fb6a874c297",
+        "headers": {
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "Referer": "https://www.primevideo.com/"
+        }
+      },
+      {
+        "name": "CLARO SPORTS LATAM",
+        "icono": "https://i.ibb.co/6chwhjB2/claro-sports.png",
+        "uri": "https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd"
+      },
+      {
+        "name": "CLARO SPORTS MX/C.A.",
+        "uri": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
+        "icono": "https://i.ibb.co/6chwhjB2/claro-sports.png"
+      },
+      {
+        "name": "Red Bull TV",
+        "uri": "https://8b35224b42fd4ae797ea4d8b205f8368.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-VIDAA/957/vidaa/hls/master/playlist.m3u8?ads.ifa=IFA&ads.ifa_type=IFA_TYPE&ads.device_type=DEVICE_TYPE&ads.brand_name=BRAND_NAME&ads.device_country=DEVICE_COUNTRY&ads.device_osv=DEVICE_OSV&ads.device_language=DEVICE_LANGUAGE&ads.dnt=DNT&ads.gdpr=GDPR&ads.gdpr_consent=GDPR_CONSENT&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ad.vpi=VPI&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.vidaa_ads_param=1199898630",
+        "icono": "https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png",
+        "headers": {
+          "user-agent": "NitroX/1.24.1-1 (Xiaomi 2510DRK44C; Android 16; mobile; release)"
+        }
+      },
+      {
+        "name": "RALLY TV",
+        "uri": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+        "icono": "https://i.postimg.cc/Mp0VCRjd/rally-tv.png"
+      },
+      {
+        "name": "TUDN",
+        "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://play-fulltv.com.ar/zuperplay/playtv/results.php?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411",
+        "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "TUDN USA",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/26hxutyti4/out/v1/c7064d5b251a4564b53e0854426b9c8f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411",
+        "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "ZONA TUDN",
+        "uri": "https://4fd7193b903d414f925451792be9753a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-357-ZONATUDNUS-VIZIO/mt/vizio/357/hls/master/playlist.m3u8",
+        "icono": "https://i.imgur.com/oT5CAvd.png"
+      },
+      {
+        "name": "EUROSPORT",
+        "uri": "https://cache2.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=0f4751abc997473d9138d17b5944be04&key=a0aefedd2376a54b8b50f9b7c2d50ac7",
+        "icono": "https://i.imgur.com/olQJgm7.png",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "EUROSPORT 2",
+        "uri": "https://cache2.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414",
+        "icono": "https://i.imgur.com/f56dHgR.png",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      }
+    ]
+  },
+  {
+    "name": "🇧🇷 ESPORTE BRAZIL",
+    "samples": [
+      {
+        "name": "EVENTS MAX BR",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=83a4bc2c011e2c72b35b7b5f2d35560d&key=01bd0115c83d3493449181ba68998ab1",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrbviqAvWdPmPSZwfAIT46GyEJhyknTGzPahXNcSJ4w&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "CAZETV",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "BAND",
+        "uri": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+        "icono": "https://i.ibb.co/WpzKSZb8/band.png"
+      },
+      {
+        "name": "BAND SPORTS",
+        "uri": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
+        "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
+      },
+      {
+        "name": "PLUTO ESPORTE",
+        "uri": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG.svg"
+      },
+      {
+        "name": "SPORTV",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.238964.0",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=51c0ef23b17297e5c01cd7f36dd0a6ce&key=8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "icono": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "SPORTV 2",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=3de028eafb3b2caffec03be1c1c818b3&key=8fbdd8a9ae6748696bb13e547bb093fc",
+        "icono": "https://i.imgur.com/pBiUnb2.png",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "SPORTV 3",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3",
+        "icono": "https://i.imgur.com/mWOR8pi.png",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice)"
+        },
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "PREMIERE",
+        "uri": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",
+        "drm_scheme": "clearkey"
+      },
+      {
+        "name": "N Sports",
+        "uri": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5P7xlzzw17nkpoS9IZz2YdcedPwz3vSNybJ4vhHjypw&s=10"
+      },
+      {
+        "name": "GE TV",
+        "uri": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9bIiyU2pG82OdoafVZgaRH4H1ZMWefDafwNh9QaKCA&s"
+      }
+    ]
+  },
+  {
+    "name": "📰 NOTICIAS",
+    "samples": [
+      {
+        "name": "CNN",
+        "uri": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "FRANCE 24",
+        "uri": "https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZZaacRJ1zu8hYr0JbsXYjegg-a50qoXDpebdcb4sNw&s=10"
+      },
+      {
+        "name": "EURONEWS",
+        "uri": "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/euronews-es-avc1_3300000=19-mp4a_143200_esp=27.m3u8",
+        "icono": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50"
+      },
+      {
+        "name": "DEUTSCHE WELLE",
+        "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqeNhkPiXfQn4BskmhwJ5x8cak0hW4oHtiFYPctzFmQ&s"
+      }
+    ]
+  },
+  {
+    "name": "🐢 CULTURA",
+    "samples": [
+      {
+        "name": "ANIMAL PLANET",
+        "uri": "http://151.245.32.107:8080/ctv/42.m3u8",
+        "type": "hls",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY",
+        "uri": "http://151.245.32.107:8080/ctv/247.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeN7SQHBptic655yBnFczLBRlw-lL-uZ8bx9eXFaOhPQ&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY SCI",
+        "uri": "http://151.245.32.107:8080/ctv/267.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUJWHPRM5lu9OQKkSO7pQC1cBPOHkcpqM5Ig_a193OA&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY THEATER",
+        "uri": "http://151.245.32.107:8080/ctv/271.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTeyEDelyiV_MouvjA2oUXlv41s68xr-TFdrVSrNwpg&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY TURBO",
+        "uri": "http://151.245.32.107:8080/ctv/274.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwB6pybtgX4Q8UWMSwR28O4hHP6IIm0Ji5BwO4f9Ltg&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY WORLD",
+        "uri": "http://151.245.32.107:8080/ctv/276.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rKWih5vntNOYD9kL379KMhhD4O7gTc-VY3yAhRPF3w&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "DISCOVERY H&H",
+        "uri": "http://151.245.32.107:8080/ctv/258.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1nQVbm_R0ZCDrPt-VIrIvjgIDva-Zl5Q6a5gu0mz_Q&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "CGTN DOCUMENTARY",
+        "uri": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+        "icono": "https://i.postimg.cc/Kc1QLqwB/cgtn-documentary.png"
+      },
+      {
+        "name": "HISTORY",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=b10e48eb0c9940015e28dfe7637b48fa&key=4df252f95de70923b736f3f659821cb7",
+        "icono": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HSTORY 2",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=6e08ea85cdbf5d3d2089d5e9a5349d8c&key=ccdb13d6d47775894452a0629c986b67",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3621.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HISTORIA",
+        "uri": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+        "icono": "https://i.imgur.com/VUy8xIG.png"
+      }
+    ]
+  },
+  {
+    "name": "🤣 COMEDIA",
+    "samples": [
+      {
+        "name": "COMEDY CENTRAL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=797eb97d11b7ee31e7da456248464879&key=93a54e23d6fb5e7d05420a279923988c",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTLo0QouNINvoB0ZKEb2Fgggp6yaD1G15MhB5hP3RD5w&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🎥 CINE Y SERIES",
+    "samples": [
+      {
+        "name": "A3CINE",
+        "uri": "http://151.245.32.107:8080/ctv/14.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTmpXRhkKK7NV50d-wuXfsd2FBSX-Pk03j2KWl2dQxcV3boU6F2jGKig&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "A3SERIES",
+        "uri": "http://151.245.32.107:8080/ctv/17.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6se8BPE13voi-AkAUo3wKlEpD-J6seEx_fcvo_9ZZ3A&s",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "A&E",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?keyid=46d4dda63edf221dae86a32c6e1c8fdb&key=40d66cb806ec1fa0f5649d800a43ec44",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHKJVrKm8SEqKbnqXaU-EJHtAOFtQ5onu6NbnxI5Q-Q&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "AXN",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AXN",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJE8bZ508spUu3P0LRg2uVZskqm9kBPOhYOaxTacqlA&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "AMC",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMC",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJm3n4ZKC5wDBJt-whlLlxYqjNm75uE1xBD5e0yzVyXg&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "AMC SERIES",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc/AMC_Series.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMC_SERIES",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQu40JLZVE5kphsrjhXNyhk2nB4lSNdC9x0g&s",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "AMC EN ESPAÑOL",
+        "uri": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8",
+        "icono": "https://i.imgur.com/L1h6W5Q.png"
+      },
+      {
+        "name": "CINECANAL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CINECANAL",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA31IBe3dprSK1d0dWWQrOsiN5IaKZA1z9P0A8HAyXQg&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CGTN",
+        "uri": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfC9OeMP8ZuU_GwlxwCQSSIF7_h5TD8vCM45ZR-nvs0iTncF_PCW-b7E&s=10"
+      },
+      {
+        "name": "FX",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FX",
+        "icono": "https://www.univision.com/_next/image?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fpictures%2Fpicture-19775-1537813823.jpg&w=1280&q=75",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SPACE",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SPEACE",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXU_UFBJv20gzRYIbF_iNSaP4y61pJ2WkyPbtJ9yoYiA&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STAR CHANNEL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/STAR_CLANNEL",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGAO--n2E4lo5yhnPZ1c8P0cL8eorNcve_cAqafSC5A&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TNT",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_wl/TNT_HD_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT",
+        "icono": "https://yt3.googleusercontent.com/uT8xSich9ht0OyZRQgrlYRD2J9nP_bi-vU6V3jjLBUxK15Rem0njRvQmPdy-r-tqKUMKbeCSKA=s900-c-k-c0x00ffffff-no-rj",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TNT SERIES",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_wl/TNTSeries.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_SERIES",
+        "icono": "https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GOLDEN",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN",
+        "icono": "https://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GOLDEN EDGE",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN_EDGE",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfEzdwfPP9XV_SqGjbC5PTmqtBVuH5zJ4hKwcN6DQ0Q&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "GOLDEN+",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN-",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjToZdGdEWWjHQIhOfdbB55TDFjQ9pIi8AyusiV9zkFw&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "GOLDEN PREMIER",
+        "uri": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN_PREMIER",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hKl-HR_q27tsYe8cay5XRvvnwn_Wo7esjU_ZZMVO1Q&s=10",
+        "headers": {
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "ATVWebPlayerSDK-1.0.238964.0 (AndroidDevice) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "BBC SERIES",
+        "uri": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj6Qy-PPHXUAnLvysB0BtxNhvWyTpcCzFWXdL6jYO-og&s=10"
+      },
+      {
+        "name": "Canal VIX",
+        "uri": "https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QcDkoYnerdi1LhNIHNfngtzmeZMmVXhCYRhHW_WKkg&s=10"
+      },
+      {
+        "name": "CINEMAX",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/CINEMAX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZfyV8RM-CTfRGf0OdM5dw24T87HkLRlOy3d9pxRXy7Q&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GRJNGO",
+        "uri": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
+        "icono": "https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+      },
+      {
+        "name": "STAR TVE",
+        "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7Vt4A-LYDjn5yc-gSQRIUwsxziEL0IODS1TmbBImXQ&s=10"
+      },
+      {
+        "name": "MTV",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/MTV",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77f0Q_ImfwZPBaSiis6NSeH_xDPzDpm7YrWCBPmNEMA&s=10",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🎥 NOVELAS",
+    "samples": [
+      {
+        "name": "TNT NOVELAS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TNT_NOVELAS",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFqD4dS3PfKCFzZ_Gws0o1hSvZYya3clDHrDbqK0US3FFgSZL1gnEMWq8&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TELEMUNDO",
+        "uri": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtR6DAhB8R9643xeX4SeStMOv8R-LfjqNN7UC5yyazw&s=10"
+      },
+      {
+        "name": "TELEMUNDO INT",
+        "uri": "http://151.245.32.107:8080/ctv/1108.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtR6DAhB8R9643xeX4SeStMOv8R-LfjqNN7UC5yyazw&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "UNIVISON",
+        "uri": "https://barinaslive1.boldmss.com/UNIVISION/UNIVISION.isml/UNIVISION.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10"
+      },
+      {
+        "name": "UNIVISION INT",
+        "uri": "http://151.245.32.107:8080/ctv/1009.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcEVrzPoY4xlQByM719uO3YbYI7GqAnvgF5UmTHjGtw&s=10",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "RCN+",
+        "uri": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzP0S2SHuRBryss2xWYDnZ1R-XkiqnYTCZPsJVPVG4rg&s=10"
+      },
+      {
+        "name": "RCNovelas",
+        "uri": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYOcESKTND71ZxEc0juz5Cx9tzlqlbj3gnzxrEXdfIA&s=10"
+      },
+      {
+        "name": "TELEMUNDO ACCION",
+        "uri": "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_1.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14380b6fcd3d8d72b9a4003e0afd05be.webp"
+      },
+      {
+        "name": "TELEMUNDO TELENOVELAS CLASICAS",
+        "uri": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6TLw_RmJcZ0TRAxBqOlB7syYm8Q8yKqtdMPRVWcrRA&s=10"
+      },
+      {
+        "name": "PLUTO.TV TELENOVELAS",
+        "uri": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8",
+        "icono": "https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoSVG_1733440520243.svg"
+      },
+      {
+        "name": "PLUTO.TV TELENOVELAS CLASICAS",
+        "uri": "https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8",
+        "icono": "https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoSVG.svg"
+      },
+      {
+        "name": "PLUTO.TV NOVELAS DE MEXICO",
+        "uri": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fr4PMQf3bl31hqQlr69nL4BqUXrnqG6yVK_PRqdwig&s"
+      },
+      {
+        "name": "PLUTO.TV NOVELAS DE VENEZUELA",
+        "uri": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8",
+        "icono": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/featuredImage_1765471713313.jpg"
+      },
+      {
+        "name": "PLUTO.TV NOVELAS DE OTROS CONTINENTES",
+        "uri": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
+        "icono": "https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoSVG_1765466599084.svg"
+      },
+      {
+        "name": "TLN",
+        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9JnR-AA7rzhgj-0WAYBf8qFKIHxWM5O0srGW3AOB8Q&s=10"
+      },
+      {
+        "name": "TLNovelas",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_wl/Telenovelas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TLNovelas",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsI451kxrG5LZByrpd1eo1bdpXuD0cD0MZ0Q3V6zWztAnlI1LWburVwgO&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CANELA.TV ACCION MEXICANA",
+        "uri": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/canelatv-accion-mexicana.png"
+      },
+      {
+        "name": "CANELA.TV CINE ROMANTICO",
+        "uri": "https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/canelatv-cine-romantico.png"
+      },
+      {
+        "name": "CANELA.TV NOVELAS Y DRAMAS",
+        "uri": "https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/canelatv-novelas-y-dramas.png"
+      },
+      {
+        "name": "CANELA.TV NOVELAS TURCAS",
+        "uri": "https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/canelatv-novelas-turcas.png"
+      },
+      {
+        "name": "LATIDOS",
+        "uri": "https://azt-cz.otteravision.com/azt/cz/cz.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCu5dUOjrtORcXz-8FTHT1AjrrUECKkvznaIRIExCkBpz4Q467UZma&s"
+      },
+      {
+        "name": "LAS ESTRELLAS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+        "uri": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+      },
+      {
+        "name": "PASIONES",
+        "uri": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8",
+        "icono": "https://ipuntotv.com/IMAGES/Cabezales/4625.jpg"
+      },
+      {
+        "name": "TODO NOVELAS",
+        "uri": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+        "icono": "https://yt3.googleusercontent.com/f4ClnogtOTfPmuEMCIMGHDRU8OXZK7J7V448aoGa7ZoLI1WLYqZazZ9pyJoYRwwBfZXMUkHAY3o=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TODO NOVELAS, MAS PASIONES",
+        "uri": "https://448a93b8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9kb05vdmVsYXNfSExT/playlist.m3u8",
+        "icono": "https://i.ibb.co/drkZ3Rc/todo-novelas-mas-pasiones.png"
+      },
+      {
+        "name": "TODO PASION",
+        "uri": "https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8",
+        "icono": "https://yt3.googleusercontent.com/u2gkc-Eg5qHkWA6LwxcYmLocZqn9cgyaXhenZGwxlUzwcUrCxXZzeF-CqsHng6ojzUYA7OgH-A=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ]
+  },
+  {
+    "name": "🎥 SONY ONE",
+    "samples": [
+      {
+        "name": "SONY CHANNEL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SONY_CHANNEL",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv0oL8jJJQ7gGtoIl6bw-KU93lHsAtE1taIeeChCjew&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "SONY MOVIES",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/SONY_MOVIES",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SONY CINE",
+        "uri": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/sony-cine.png"
+      },
+      {
+        "name": "SONY NOVELAS",
+        "uri": "https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8",
+        "icono": "https://pelisjuanita.com/tv/logos/sony-novelas.png"
+      },
+      {
+        "name": "SONY ONE CINEMA",
+        "uri": "https://spt-sonyonecomedias-mx.tcl.wurl.tv/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE COMEDIAS",
+        "uri": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE EXITOS",
+        "uri": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE HITS ACCION",
+        "uri": "https://de9yx47crxs6l.cloudfront.net/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE HITS ACCION HD",
+        "uri": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE SERIES DE COMEDIA",
+        "uri": "https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE HITS COMEDIA",
+        "uri": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE SERIES THRILLER",
+        "uri": "https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      },
+      {
+        "name": "SONY ONE BLACKLIST",
+        "uri": "https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNlHp95TyA7BlKXxbJIF1GglpRLQqaWVm2_CYhmDRkLlaEDElJprM5PvB&s=10"
+      }
+    ]
+  },
+  {
+    "name": "🎥 HBO/UNIVERSAL+",
+    "samples": [
+      {
+        "name": "HBO",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/320/320/0/0/228799490721.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO 2",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBO2_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/320/320/0/0/36093751072127.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO FAMILY",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOFAMILY_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/320/320/0/0/7354519807335.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO MUDI",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOMUDI_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/320/320/0/0/61157416071448.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO PLUS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPLUS_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/320/320/0/0/10237380072165.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO POP",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOPOP_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/320/320/0/0/68908128073927.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_wl/HBO_Signature.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOSIGNATURE_AR",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/320/320/0/0/3657655307500.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HBO XTREME",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/HBOEXTREME_MX",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/320/320/0/0/6041444607334.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL CHANNEL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_wl/Universal_Channel_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CHANNEL",
+        "icono": "https://cdn.futurenew.xyz/images/universalchannel.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STUDIO UNIVERSAL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_wl/Studio_Universal.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STUDIO",
+        "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "referer": "https://portal.app.flow.com.py/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL CINEMA",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CINEMA",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_COMEDY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/800/542/0/0/94843453076948.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL CRIME",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_CRIME",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/800/542/0/0/34307524076949.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_PREMIERE",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "UNIVERSAL REALITY",
+        "uri": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/UNIVERSAL_REALITY",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/800/542/0/0/16370616076951.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "👶 INFANTILES",
+    "samples": [
+      {
+        "name": "CARTOONITO",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOONITO",
+        "icono": "https://i.ibb.co/rx04nzW/cartoonito.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CARTOON_NETWORK",
+        "icono": "https://i.ibb.co/C2PTPBd/cartoon-network.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DISCOVERY KIDS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISCOVERY_KIDS",
+        "icono": "https://i.ibb.co/sQVsMMN/discovery-kids.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISNEY_CHANNEL",
+        "icono": "https://i.ibb.co/vdfh1bd/disney-channel.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DISNEY JR.",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DISNEY_JR",
+        "icono": "https://i.ibb.co/KjzPznS/Disney-Jr.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "NICKELODEON",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/NICK",
+        "icono": "https://i.ibb.co/KN9K9xN/nickelodeon.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "NICK JR.",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/NICK_JR",
+        "icono": "https://i.ibb.co/CQvYQWW/nick-jr.webp",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "BITME",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
+      },
+      {
+        "name": "CLAN",
+        "uri": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8",
+        "icono": "https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png"
+      },
+      {
+        "name": "TOONCAST",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TOONCAST",
+        "icono": "https://i.ibb.co/8bgMYCy/tooncast.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "PAKA PAKA",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/PAKA-PAKA",
+        "icono": "https://i.ibb.co/GcBkPWT/paka-paka.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "KIDOO",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/KIDOO",
+        "icono": "https://i.postimg.cc/xdRwFst1/kidoo.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "BABY TV",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BABY-TV",
+        "icono": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "EDYE TV",
+        "uri": "https://d19lqzmtwt5yjz.cloudfront.net/edye-tv/edye-tv.m3u8",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e5/Edye.webp/revision/latest/scale-to-width-down/50?cb=20250619050248",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "EL REINO INFANTIL",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Reino_Infantil/SA_Live_dash_enc/Reino_Infantil.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EL-REINO-INFANTIL",
+        "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "DREAMWORKS",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/DREAMWORKS",
+        "icono": "https://i.ibb.co/10jGH2z/dreamworks.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "PITUFO TV",
+        "uri": "https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8",
+        "icono": "https://i.postimg.cc/RFntJsBL/pitufo-tv.png"
+      },
+      {
+        "name": "Duck TV Plus",
+        "uri": "https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8",
+        "icono": "https://i.postimg.cc/CxwMBZHt/duck-tv-plus.png",
+        "headers": {
+          "origin": "https://webtv.sk",
+          "referer": "https://webtv.sk/",
+          "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
+        }
+      },
+      {
+        "name": "MOJITV",
+        "uri": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452",
+        "icono": "https://i.postimg.cc/x8g16Jmn/mojitv.png"
+      },
+      {
+        "name": "DM KIDSTV",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967",
+        "icono": "https://i.postimg.cc/RFfKz750/dm-kids.png"
+      },
+      {
+        "name": "TOON GOGGLES",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=514",
+        "icono": "https://i.postimg.cc/HndcDFtg/toon-goggles.webp"
+      },
+      {
+        "name": "CANELA KIDS",
+        "uri": "https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6QCpWYqK/canela-kids.webp"
+      },
+      {
+        "name": "DIOS TE VE KIDS",
+        "uri": "https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/tY5VxTm/dios-teve-kids.png"
+      }
+    ]
+  },
+  {
+    "name": "🎵 STINGRAY PACK",
+    "samples": [
+      {
+        "name": "STINGRAY LOUD",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004120/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_LOUD",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104955_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY VIBE",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004119/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_VIBE",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104956_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY FESTIVAL",
+        "uri": "https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_FESTIVAL",
+        "icono": "https://images.ctfassets.net/8utyj17y1gom/4mcs4Lo3QhnPyINCeu6M7Z/055e05d60f9f225aa3273c92c413f53b/Desktop_TVChannelPage_Festival.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HITS! 4K",
+        "uri": "https://lott5-web-opus.cdn.avp.telus.net/232006004108/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-4K",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HITS!",
+        "uri": "https://live1-ott.izzigo.tv/6/out/u/dash/SKY-STINGRAY-HITS-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_HITS-",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108571_ld_h15_aa.png?w=400",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY CLASSICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=2irm&ads.env_i=1df9896d-c1d0-45e5-8f1a-47c8ce63320e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=984&ads.height=553&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35970&ads.show_id=1104&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CClassical%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20Classica&ads.episodetitle=Classica&ads.keywords=stingray%2Cclassica&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=napCoUTJsja",
+        "icono": "https://i.postimg.cc/Fzk3S0Xx/stingray-classica.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY JUICEBOX",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/SKY-STINGRAY-JUICEBOX-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_JUICEBOX",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzP_a-fIStvXpjt-a_pl9PX_8SJS_C34Q_LyVD1pQJA&s=10",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY RETRO",
+        "uri": "https://live1-ott.izzigo.tv/8/out/u/dash/STINGRAY-RETRO-HD-H265/default.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_RETRO",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s104957_ld_h15_aa.png",
+        "headers": {
+          "origin": "https://www.izzigo.tv",
+          "referer": "https://www.izzigo.tv/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PALMARÈSADISQ PAR STINGRAY",
+        "uri": "https://lott3-web-opus.cdn.avp.telus.net/232006004107/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_PALMAR-SADISQ",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s108572_ld_h15_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY COUNTRY",
+        "uri": "https://lott2-web-opus.cdn.avp.telus.net/232006004084/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_COUNTRY",
+        "icono": "https://gn-images-stb-opus.cdn.avp.telus.net/assets/s21642_ld_h8_aa.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY NOW 4K",
+        "uri": "https://lott4-stb-opus.cdn.avp.telus.net/232006004232/vxfmt=dp/manifest.mpd?device_profile=dashvmx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/STINGRAY_NOW_4K",
+        "icono": "https://videostars.stingray.com/images/now4k-channel.png?w=400",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY iCONCERTS",
+        "uri": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lrCNErQ3GVpyWZx0bZytQv5xIy1vOHjWpuNpX9qB2Q&s=10"
+      },
+      {
+        "name": "QELLO CONCERTS BY STINGRAY",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=w1sc&ads.env_i=b5a80031-f6a3-468d-bc31-43e7d78fbc98&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35967&ads.show_id=1101&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Qello%20Concerts&ads.episodetitle=Qello&ads.keywords=stingray%2Cqello&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=RQY0AGlmJWe",
+        "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY DJAZZ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8?ads.dpname=distrotv&ads.rnd=en6g&ads.env_i=8bb3b6e2-496c-4637-823c-9eab5d611b2a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=601&ads.height=338&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=96.0.50.248&ads.geo=CL&ads.lat=-33.45210&ads.long=-70.65360&ads.dma=&ads.geoType=2&ads.contentid=22865&ads.content_duration=18000&ads.episode_id=35971&ads.show_id=1105&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CJAzz%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stingray%20DJAZZ&ads.episodetitle=DJazz&ads.keywords=stingray%2Cdjazz&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=O4kUIMQ5Oiq",
+        "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
+      },
+      {
+        "name": "MOVIE MUSIC BY STINGRAY",
+        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814585/hls/master.m3u8?ads.xumo_channelId=88814585",
+        "icono": "https://i.postimg.cc/mrFCmvpg/movie-music-by-stingray.png"
+      },
+      {
+        "name": "TIKTOK RADIO",
+        "uri": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
+        "icono": "https://i.postimg.cc/LsbR87mL/tiktok-radio.png"
+      },
+      {
+        "name": "KARAOKE POR STINGRAY",
+        "uri": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "NATURESCAPE",
+        "uri": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
+        "icono": "https://i.imgur.com/882kd90.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PLUTO TV KARAOKE BY STINGRAT",
+        "uri": "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8",
+        "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PLUTO TV SHOWS POR STINGRAY",
+        "uri": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
+        "icono": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY CITYSCAPES",
+        "uri": "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY CLASSIC ROCK",
+        "uri": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/FBgu8yB.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY COZY CAFE",
+        "uri": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY EASY LISTENING",
+        "uri": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY FLASHBACK 70S",
+        "uri": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/jf5C9QF.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY GREATEST HITS",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+        "icono": "",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HIT LITS",
+        "uri": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/lgpIwId.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HITLIST",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+        "icono": "https://i.imgur.com/lgpIwId.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY HOLIDAY HITS",
+        "uri": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/4xVVKH8.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Stingray HOLIDAYSCAPE",
+        "uri": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+        "icono": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY Hot Country (1080p)",
+        "uri": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/PZhxyIT.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY JUKEBOX OlLDIES",
+        "uri": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY NATURESCAPE",
+        "uri": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/882kd90.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY NOTHIT' BUT 90S",
+        "uri": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/Tq3I0po.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY POP ADULT",
+        "uri": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/H2ugC9L.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY REMEMBER THE 80S",
+        "uri": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+        "icono": "https://i.imgur.com/duwc8E8.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY ROCK ALTERNATIVE",
+        "uri": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/mt8ulVX.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY ROMANCE LATINO",
+        "uri": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY SOUL STORM",
+        "uri": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/dU1KC3f.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY THE SPA",
+        "uri": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/ywAN923.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY KPOP",
+        "uri": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/mMbntB5.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STINGRAY LATINO",
+        "uri": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+        "icono": "https://i.imgur.com/Os3kRRP.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🎵 OTROS MÚSICALES",
+    "samples": [
+      {
+        "name": "FLOW MUSIC",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/FLOW-MUSIC_XP",
+        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "QUIERO MUSICA",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/QUIERO_MUSICATV",
+        "icono": "https://i.imgur.com/RO9Dz3X.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "CANAL DE LA MÚSICA",
+        "uri": "https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",
+        "headers": {
+          "user-agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36  WebAppManager"
+        }
+      },
+      {
+        "name": "EL FOLKLORICO",
+        "uri": "http://stream.t5satelital.blog/hls/elfolklorico.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/100/100/0/0/37904303079132.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
+        "name": "ALLEGRO",
+        "uri": "https://edge-mix01-ros.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/ALEGRO",
+        "icono": "https://i.imgur.com/bRH34Rn.png",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/"
+        }
+      },
+      {
+        "name": "FREETV BANDA",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16334",
+        "icono": "https://i.postimg.cc/1Xz8HGWF/freetvbanda.png"
+      },
+      {
+        "name": "FREETV HITS",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16322",
+        "icono": "https://i.postimg.cc/5twQNNYy/freetvhits-png.png"
+      },
+      {
+        "name": "MTV JP",
+        "uri": "http://42.118.247.37:9394/stream/74.m3u8",
+        "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
+      },
+      {
+        "name": "MTV LIVE",
+        "uri": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJwBI-U2pFet6MiLI2_Masq9PZFnyAw7lwvrs5p7ymg&s=10"
+      },
+      {
+        "name": "CONCERT CHANNEL",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/CONCERT_CHANNEL",
+        "icono": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50",
+        "headers": {
+          "referer": "https://www.primevideo.com/",
+          "user-agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
+      },
+      {
+        "name": "RETRO MUSIC TELEVISION",
+        "uri": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/1DLP1wx7J-7mecGjQjtec9NVzkNxkG6Yv4LzyUf4ltjnoYCYucAYksREJWa5lwWS3BWc"
+      },
+      {
+        "name": "TV REBEL",
+        "uri": "https://dash2.antik.sk/live/test_rebel/playlist.m3u8",
+        "icono": "https://i.postimg.cc/P5nmttGx/rebel-rock-tv.png",
+        "headers": {
+          "origin": "https://webtv.sk",
+          "referer": "https://webtv.sk/",
+          "user-agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2"
+        }
+      },
+      {
+        "name": "VEVO 2K",
+        "uri": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/MKqyZbNc/vevo-2k.png"
+      },
+      {
+        "name": "VEVO POP",
+        "uri": "https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8",
+        "icono": "https://i.postimg.cc/L8HKV77H/vevo-pop.png"
+      },
+      {
+        "name": "VEVO POP ESPAÑOL",
+        "uri": "https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8",
+        "icono": "https://i.postimg.cc/L8HKV77H/vevo-pop.png"
+      },
+      {
+        "name": "VEVO LATINO",
+        "uri": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8",
+        "icono": "https://i.postimg.cc/VsGDhhdf/vevo-latino.png"
+      },
+      {
+        "name": "VEVO RETRO",
+        "uri": "https://dh732bpen9wqx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xpcm3pisx9sj8/VevoRetro_ES.m3u8",
+        "icono": "https://i.postimg.cc/FsHZjDN8/vevo-retro.png"
+      },
+      {
+        "name": "VEVO ´70s",
+        "uri": "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/ts-us-w2-n1/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/XY3xhBwW/vevo-70s.png"
+      },
+      {
+        "name": "VEVO ´70s & ´80s",
+        "uri": "https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8",
+        "icono": "https://i.postimg.cc/ZKTdpP70/vevo-70s-80s.png"
+      },
+      {
+        "name": "VEVO ´80s",
+        "uri": "https://d2puurghvvgsae.cloudfront.net/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/bJHwmM8p/vevo-80s.png"
+      },
+      {
+        "name": "VEVO ´90s",
+        "uri": "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/NF5ZK9dS/vevo-90s.png"
+      },
+      {
+        "name": "VEVO '90s & '00s",
+        "uri": "https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8",
+        "icono": "https://i.postimg.cc/GhvPrh4f/vevo-90s-00s.png"
+      },
+      {
+        "name": "VEVO 2010s",
+        "uri": "https://d3j50s1rkjmwi9.cloudfront.net/Vevo_2010s.m3u8",
+        "icono": "https://i.postimg.cc/xdKWMM5p/vevo-2010s.png"
+      },
+      {
+        "name": "VEVO COUNTRY",
+        "uri": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/bvsc2nD8/vevo-country.png"
+      },
+      {
+        "name": "VEVO R&B",
+        "uri": "https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8",
+        "icono": "https://i.postimg.cc/L8WQwb5K/vevo-r-b.png"
+      },
+      {
+        "name": "VEVO HIP-HOP & R&B",
+        "uri": "https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8",
+        "icono": "https://i.postimg.cc/ZnpKVkmr/vevo-hip-hop-r-b.png"
+      },
+      {
+        "name": "VEVO TRUE SCHOOL HIP-HOP",
+        "uri": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
+        "icono": "https://i.postimg.cc/TYPzKF6q/vevo-true-school-hip-hop.png"
+      },
+      {
+        "name": "VEVO REGIONAL MEXICANO",
+        "uri": "https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8",
+        "icono": "https://i.postimg.cc/V61TmHgb/vevo-regional-mx.png"
+      },
+      {
+        "name": "VEVO ÍCONOS LATINOS",
+        "uri": "https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8",
+        "icono": "https://i.postimg.cc/mk36NZ9v/vevo-iconos-latinos.png"
+      },
+      {
+        "name": "VEVO NAVIDAD",
+        "uri": "https://d3gvsgk1wzcus5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n2dbsm9s7w96/VevoNavidad_ES.m3u8",
+        "icono": "https://i.postimg.cc/3r0rkkFd/vevo-navidad.png"
+      },
+      {
+        "name": "VEVO CHRISTMAS",
+        "uri": "https://d2iwbme1fhlm5y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dhh5tap5387o2/VevoChristmas_GB.m3u8",
+        "icono": "https://i.postimg.cc/k5MXGwf8/vevo-christmas.png"
+      },
+      {
+        "name": "VEVO ROCK",
+        "uri": "https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8",
+        "icono": "https://i.postimg.cc/QMq2q4ch/vevo-rock.png"
+      },
+      {
+        "name": "VEVO RETRO ROCK",
+        "uri": "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
+        "icono": "https://i.postimg.cc/PrDV845d/vevo-retro-rock.png"
+      },
+      {
+        "name": "XITE HITS",
+        "uri": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
+        "icono": "https://i.imgur.com/N51Rp7E.png"
+      },
+      {
+        "name": "XITE HITS DE",
+        "uri": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
+        "icono": "https://i.imgur.com/N51Rp7E.png"
+      },
+      {
+        "name": "XITE HITS UK",
+        "uri": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+        "icono": "https://i.imgur.com/N51Rp7E.png"
+      },
+      {
+        "name": "XITE CELEBRATES",
+        "uri": "https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8",
+        "icono": "https://i.imgur.com/coSrUwV.png"
+      },
+      {
+        "name": "XITE ROCK X METAL",
+        "uri": "https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8",
+        "icono": "https://i.imgur.com/uIIUIuN.png"
+      },
+      {
+        "name": "XITE 60s & 70s GROOVE",
+        "uri": "https://amg01243-xite-amg01243c16-tcl-us-6476.playouts.now.amagi.tv/480p-cc/index.m3u8",
+        "icono": "https://provider-static.plex.tv/epg/cms/production/8889551a-8796-41d0-b6b5-c7fad08fb62e/xite60s70sgroove_logo_WHT-_Arlette_FiranRDX.png"
+      },
+      {
+        "name": "XITE 80s FLASHBACK",
+        "uri": "https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8",
+        "icono": "https://i.postimg.cc/43fFc9Bg/xite-80s.png"
+      },
+      {
+        "name": "XITE 90s THROWBACK",
+        "uri": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+        "icono": "https://i.imgur.com/vwpOzuz.png"
+      },
+      {
+        "name": "XITE JUST CHILL",
+        "uri": "https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8",
+        "icono": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png"
+      },
+      {
+        "name": "XITE NUEVO LATINO",
+        "uri": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+        "icono": "https://i.imgur.com/2qyl2y3.png"
+      },
+      {
+        "name": "XITE SIEMPRE LATINO",
+        "uri": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+        "icono": "https://i.imgur.com/bwmIEgG.png"
+      },
+      {
+        "name": "XITE CHRISTIAN HITS",
+        "uri": "https://amg01243-xite-amg01243c25-tcl-us-6509.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/9Fg20LL2/xite-christian-hits.png"
+      },
+      {
+        "name": "XITE REGGAE VIBES",
+        "uri": "https://amg01243-xite-amg01243c26-tcl-us-6510.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/J0wyf1BT/xite-reggae-vibes.png"
+      },
+      {
+        "name": "XITE R&B FEELS",
+        "uri": "https://amg01243-xite-amg01243c13-tcl-us-6478.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/T1rLXkJW/r-b-feels.png"
+      },
+      {
+        "name": "XITE R&B CLASSIC JAMS",
+        "uri": "https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8",
+        "icono": "https://i.postimg.cc/0QyKYW1f/xite-r-b.png"
+      },
+      {
+        "name": "XITE RAP GAME",
+        "uri": "https://amg01243-xite-amg01243c8-tcl-us-6477.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/DfDb4XNk/xite-rap-game.png"
+      },
+      {
+        "name": "XITE HIP-HOP EVOLUTION",
+        "uri": "https://amg01243-xite-amg01243c7-tcl-us-6479.playouts.now.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/PfBQs9TW/xite-hip-hop-evolution.png"
+      },
+      {
+        "name": "XITE CLASSIC COUNTRY",
+        "uri": "https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8",
+        "icono": "https://i.imgur.com/XQrMCkT.png"
+      },
+      {
+        "name": "XITE COUNTRY TODAY",
+        "uri": "https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8",
+        "icono": "https://i.postimg.cc/902tHP6w/xite-country-today.png"
+      },
+      {
+        "name": "MUSIC BOX SEXY",
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_sexy/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxsexy.com/music_box_sexy_logo.png",
+        "headers": {
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MUSIC BOX HITS",
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_hits/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxhits.com/music_box_hits_logo.png",
+        "headers": {
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MUSIC BOX DANCE",
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_dance/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxdance.com/music_box_dance_logo.png",
+        "headers": {
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MUSIC BOX CLASSIC",
+        "uri": "https://dash2.antik.sk/stream/hisi_mb_classics/playlist_cbcs.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://drm.antik.sk/widevine/key",
+        "icono": "https://musicboxclassic.com/music_box_classic_logo.png",
+        "headers": {
+          "Origin": "https://webtv.sk",
+          "Referer": "https://webtv.sk/",
+          "User-Agent": "AntikTVExoPlayer/1.1.47 (Linux;Android 15) ExoPlayerLib/2.14.2 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Billboard",
+        "uri": "https://cdn.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/320/320/0/0/12050400077728.png"
+      },
+      {
+        "name": "MUSIC TOP",
+        "uri": "http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1",
+        "icono": "https://i.postimg.cc/fLwCYCTP/music-top.png"
+      },
+      {
+        "name": "Telehit ",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNZFpxuIIglwqt1_ZKzaKmouJf1NtGfVY7NyK1F9tjg&s=10",
+        "headers": {
+          "Origin": "https://www.primevideo.com",
+          "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+          "Sec-Fetch-Site": "same-site",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Dest": "empty",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Telehit Música",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_MUSICA",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",
+        "headers": {
+          "Origin": "https://www.primevideo.com",
+          "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+          "Sec-Fetch-Site": "same-site",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Dest": "empty",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "Telehit Plus",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TELEHIT_PLUS",
+        "headers": {
+          "Origin": "https://www.primevideo.com",
+          "X-Requested-With": "com.amazon.avod.thirdpartyclient",
+          "Sec-Fetch-Site": "same-site",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Dest": "empty",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TeleRitmo",
+        "uri": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+        "icono": "https://i.postimg.cc/bwscY8fp/tele-ritmo.png"
+      },
+      {
+        "name": "SOL MÚSICA",
+        "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+        "icono": "https://i.postimg.cc/RhWwrHfD/sol-musica.png"
+      },
+      {
+        "name": "QWEST TV",
+        "uri": "https://amg00447-qwesttv-amg00447c1-vidaa-us-9656.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-vidaaus/playlist.m3u8",
+        "icono": "https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png"
+      },
+      {
+        "name": "BOX PLAYLIST",
+        "uri": "https://d3e900fnvjyq99.cloudfront.net/d/BKFNLVLBL20NVRK6FYE0/hls3/now_-1m_15s/m.m3u8",
+        "icono": "https://i.ibb.co/RHVnH98/box-playlist.png"
+      },
+      {
+        "name": "VClassicTV",
+        "uri": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+        "icono": "https://i.postimg.cc/ZK6g0tTn/vclassic-tv.png"
+      },
+      {
+        "name": "VClassicTV Tropical",
+        "uri": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8",
+        "icono": "https://i.postimg.cc/SRLDDptg/vclassic-tv-tropical.png"
+      },
+      {
+        "name": "CANELA MUSIC HITS",
+        "uri": "https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/QCWpnNFS/CANELA-HITS-0-16x9.webp"
+      },
+      {
+        "name": "CANELA REGIONAL MX",
+        "uri": "https://amg00658-amg00658c46-canelatv-international-7298.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channelb-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.postimg.cc/bNk5Zpmk/CANELA-REGIONAL-MX-0-16x9.webp"
+      },
+      {
+        "name": "MI GENTE 3.0",
+        "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8",
+        "icono": "https://i.ibb.co/QMJ9YNS/mi-gente-3-0.png"
+      },
+      {
+        "name": "TOP TV",
+        "uri": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/svkq8Y7H/Top-TV-logo-svg.png"
+      },
+      {
+        "name": "NEW KPOP",
+        "uri": "https://d3sp12rkfenklh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8590bzk53m6cd/live/newid_338_fd18dfd9/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=2fc034f7-8ea7eec6-1badd192-856e5919",
+        "icono": "https://i.ibb.co/BGxBxvX/new-kpop.png"
+      },
+      {
+        "name": "K-POP BY CJ ENM",
+        "uri": "https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8",
+        "icono": "https://i.ibb.co/WkFpM7k/k-pop-cj-enm.png"
+      },
+      {
+        "name": "TRACE LATINA",
+        "uri": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8",
+        "icono": "https://i.ibb.co/M5syQ3Yq/Tracelatina2022.png"
+      },
+      {
+        "name": "TRACE BRASIL",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
+        "icono": "https://i.ibb.co/MkQnY5kS/Trace-Brasil-logo.png"
+      },
+      {
+        "name": "TRACE BRASIL HD",
+        "uri": "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8",
+        "icono": "https://i.ibb.co/MkQnY5kS/Trace-Brasil-logo.png"
+      },
+      {
+        "name": "TRACE URBAN",
+        "uri": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN AFRICA FRANCO",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN Caribbean And Indian Ocean",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN HD",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN FEANCE",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE URBAN AFRICA",
+        "uri": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8",
+        "icono": "https://i.ibb.co/6RrTk75m/Trace-urban.png"
+      },
+      {
+        "name": "TRACE UK",
+        "uri": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
+        "icono": "https://i.ibb.co/Q3TwBJBB/Trace-UK-Logo.png"
+      },
+      {
+        "name": "TRACE UK GB",
+        "uri": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+        "icono": "https://i.ibb.co/Q3TwBJBB/Trace-UK-Logo.png"
+      },
+      {
+        "name": "TRACE CARIBBEAN",
+        "uri": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8",
+        "icono": "https://i.ibb.co/V0KfxSrS/Trace-Caribbean-Logo.png"
+      },
+      {
+        "name": "TRACE AFRICA",
+        "uri": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8",
+        "icono": "https://i.imgur.com/kPUkoS7.png"
+      },
+      {
+        "name": "TRACE AFRIKORA",
+        "uri": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/CQDdnhp.png"
+      },
+      {
+        "name": "TRACE AYITI",
+        "uri": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8",
+        "icono": "https://i.imgur.com/KkJ6fet.png"
+      },
+      {
+        "name": "TRACE GOSPEL",
+        "uri": "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8",
+        "icono": "https://i.imgur.com/X0UmU3K.png"
+      },
+      {
+        "name": "TRACE GOSPEL ROA",
+        "uri": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/X0UmU3K.png"
+      },
+      {
+        "name": "TRACE GOSPEL SA",
+        "uri": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/X0UmU3K.png"
+      },
+      {
+        "name": "TRACE IVOIRE",
+        "uri": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8",
+        "icono": "https://i.imgur.com/W2l3rVx.png"
+      },
+      {
+        "name": "TRACE JAMA",
+        "uri": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/pthX34m.png"
+      },
+      {
+        "name": "TRACE KITOKO",
+        "uri": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8",
+        "icono": "https://i.imgur.com/q6vkMrU.png"
+      },
+      {
+        "name": "TRACE MBOA",
+        "uri": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/cYwkCj2.png"
+      },
+      {
+        "name": "TRACE MZIKI",
+        "uri": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8",
+        "icono": "https://i.imgur.com/l3X9Gg4.png"
+      },
+      {
+        "name": "TRACE NAIJA",
+        "uri": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8",
+        "icono": "https://i.imgur.com/Rguekcp.png"
+      },
+      {
+        "name": "TRACE NGOMA",
+        "uri": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8",
+        "icono": "https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png"
+      },
+      {
+        "name": "TRACE TOCA",
+        "uri": "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8",
+        "icono": "https://i.postimg.cc/Bv7dJpSR/Trace-Toca-Logo.png"
+      },
+      {
+        "name": "TRACE MUZIKA",
+        "uri": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8",
+        "icono": "https://i.postimg.cc/cJDNrZhy/Trace-Muzika-Logo.png"
+      },
+      {
+        "name": "COOL SUMMER",
+        "uri": "https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8",
+        "icono": "https://i.ibb.co/7k7VVLd/cool-summer.png"
+      },
+      {
+        "name": "CMC TV",
+        "uri": "https://cmc-ono.amagi.tv/playlist504_p.m3u8",
+        "icono": "https://media.tvup.cloud/canales/color_lg_5b1e8713dd713247dee47267.png"
+      },
+      {
+        "name": "CMC USA",
+        "uri": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/chunklist.m3u8",
+        "icono": "https://i.postimg.cc/65BkhL87/cmc-usa.png"
+      },
+      {
+        "name": "CMT EQUAL PLAY",
+        "uri": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8",
+        "icono": "https://i.ibb.co/NjxpfVp/cmt-music.png"
+      },
+      {
+        "name": "DEF JAM",
+        "uri": "https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8",
+        "icono": "https://i.ibb.co/Bq0jhwL/def-jam.png"
+      },
+      {
+        "name": "HIP HOP TV",
+        "uri": "https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8",
+        "icono": "https://i.ibb.co/JrGSVR4/hip-hop-tv.png"
+      },
+      {
+        "name": "ROCK TV",
+        "uri": "https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8",
+        "icono": "https://i.ibb.co/myJgqVR/ROCK-TV.png"
+      },
+      {
+        "name": "70-80 ®it",
+        "uri": "https://585b674743bbb.streamlock.net/9050/9050/chunklist_w2077975936.m3u8",
+        "icono": "https://i.ibb.co/HTm3wJW/70-80-it.png"
+      },
+      {
+        "name": "NOW 70s",
+        "uri": "http://118.142.17.190:8278/now70hls/playlist.m3u8",
+        "icono": "https://i.ibb.co/nyVp8rQ/NOW-70s.png"
+      },
+      {
+        "name": "NOW 80s",
+        "uri": "http://118.142.17.190:8278/now80hls/playlist.m3u8",
+        "icono": "https://i.ibb.co/MxMq06s1/NOW-80s-logo.png"
+      },
+      {
+        "name": "NOW 90s 00s",
+        "uri": "http://118.142.17.190:8278/now00hls/playlist.m3u8",
+        "icono": "https://i.postimg.cc/Jn7T2Zmz/now-90s00s.png"
+      },
+      {
+        "name": "NOW ROCK",
+        "uri": "http://118.142.17.190:8278/now90hls/playlist.m3u8",
+        "icono": "https://i.postimg.cc/BQ8g5X43/NOW-Rock-logo.png"
+      },
+      {
+        "name": "THAT'S 70s",
+        "uri": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/rp05QXG6/thats-70s.png"
+      },
+      {
+        "name": "THAT'S 80s",
+        "uri": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/t4R5dMvW/thats-80s.png"
+      },
+      {
+        "name": "THAT'S 90s 00s",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8",
+        "icono": "https://i.postimg.cc/JnK7XtyL/thats-90s-00s.png"
+      },
+      {
+        "name": "THAT'S ROCK",
+        "uri": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/NMv2Dyfr/thats-rock.png"
+      }
+    ]
+  },
+  {
+    "name": "PRUEBA",
+    "samples": [
+      {
+        "name": "PRUEBA",
+        "uri": "http://151.245.32.107:8080/ctv/874.m3u8",
+        "type": "hls",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjSwCiBLKyykxUqEITIOjJrAZCx4dNlGTpIP_skEy6A&s",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+      {
+        "name": "Sky Sports: La Liga",
+        "uri": "http://151.245.32.107:8080/ctv/1079.m3u8",
+        "type": "hls",
+        "icono": "http://i.tvcluboficial.com/skysports.png",
+        "headers": {
+          "X-App": "ps",
+          "X-Version": "10/1.0.9",
+          "X-Did": "3db485a932e81c10",
+          "User-Agent": "Magma Player/10"
+        }
+      },
+    ]
+  }
+]
