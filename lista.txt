@@ -1,1 +1,1 @@
-https://iptv-org.github.io/iptv/countries/ar.m3u
+https://raw.githubusercontent.com/compunilla/Tigre/refs/heads/main/rata.m3u
