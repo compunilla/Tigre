@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR FULL HD" tvg-logo="https://i.ibb.co/JC4v2dn/espn1.png" group-title="Deportes",ESPN 1 SUR FULL HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/80473
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 ARGENTINA FULL HD" tvg-logo="https://i.ibb.co/JC4v2dn/espn1.png" group-title="Deportes",ESPN 1 ARGENTINA FULL HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/80477
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",SP: ARG: Fox Sports 1 HD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/395999
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",SP: ARG: Fox Sports 1 SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396000
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2 FHD" tvg-logo="" group-title="Deportes",SP: ARG: Fox Sports 2 FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396001
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",SP: ARG: Fox Sports 2 HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396002
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",SP: ARG: Fox Sports 2 SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396003
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 3 HD" tvg-logo="" group-title="Deportes",SP: ARG: Fox Sports 3 HD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396005
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Deportes",SP: ARG: TyC Sports Local FHD
@@ -23,80 +13,42 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463420
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396905
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional HD" tvg-logo="http://logos.ti7an.net/logos/Argentina_deportes/tyc_sports%20internacional.png" group-title="Deportes",SP: ARG: TyC Sports Internacional HD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396907
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="http://logos.ti7an.net/logos/Argentina_deportes/tyc_sports%20internacional.png" group-title="Deportes",SP: ARG: TyC Sports Internacional SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396908
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Deportes",SP: ARG: TyC Sports Local SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396910
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports SD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Deportes",SP: ARG: TyC Sports SD (Fibra)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396906
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",SP: ARG: TNT Sports FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396911
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",SP: ARG: TNT Sports HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396912
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",SP: ARG: TNT Sports SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396913
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: DEPORTV" tvg-logo="https://i.im.ge/2023/06/14/iiP0rS.Sin-titulo.png" group-title="Deportes",SP: ARG: DEPORTV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396904
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 ARGENTINA FULL HD" tvg-logo="https://i.ibb.co/JC4v2dn/espn1.png" group-title="Deportes",ESPN 1 ARGENTINA FULL HD
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/80477
 #EXTINF:-1 tvg-id="" tvg-name="Canal Showsport (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Deportes",Canal Showsport (720p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463324
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Garage TV" tvg-logo="http://logos.ti7an.net/logos/Argentina/The_garage_tv.PNG" group-title="Deportes",ARG: Garage TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396890
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV Latin America" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Deportes",Garage TV Latin America
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463364
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png" group-title="Noticias",ARG: Telefe FHD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396877
 #EXTINF:-1 tvg-id="" tvg-name="Telefe (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Telefe (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463405
 #EXTINF:-1 tvg-id="" tvg-name="Telefe Buenos Aires (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Telefe Buenos Aires (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463406
 #EXTINF:-1 tvg-id="" tvg-name="Telefe Internacional (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Telefe Internacional (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463407
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png" group-title="Noticias",ARG: Telefe HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396876
-#EXTINF:-1 tvg-id="" tvg-name="Telefe Internacional (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Telefe Internacional (576p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463408
 #EXTINF:-1 tvg-id="" tvg-name="Telefe Salta" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Telefe Salta
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463409
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png" group-title="Noticias",ARG: Telefe SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396875
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Trece FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Noticias",ARG: El Trece FHD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396874
 #EXTINF:-1 tvg-id="" tvg-name="El Trece (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",El Trece (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463354
 #EXTINF:-1 tvg-id="" tvg-name="El Trece Internacional Latin America (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",El Trece Internacional Latin America (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463356
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Noticias",ARG: El Trece HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396873
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Trece SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Noticias",ARG: El Trece SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396872
-#EXTINF:-1 tvg-id="" tvg-name="El Trece (480p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",El Trece (480p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463355
 #EXTINF:-1 tvg-id="" tvg-name="ARG: America TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/749px-Logotipo_de_America_TV.svg.png" group-title="Noticias",ARG: America TV FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396865
-#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/749px-Logotipo_de_America_TV.svg.png" group-title="Noticias",ARG: America TV HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396864
-#EXTINF:-1 tvg-id="" tvg-name="America TV " tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",America TV
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463259
-#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/749px-Logotipo_de_America_TV.svg.png" group-title="Noticias",ARG: America TV SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396863
 #EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve FHD" tvg-logo="http://logos.ti7an.net/logos/Argentina/Canal%209.png" group-title="Noticias",ARG: El Nueve FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396871
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve HD" tvg-logo="http://logos.ti7an.net/logos/Argentina/Canal%209.png" group-title="Noticias",ARG: El Nueve HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396870
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve SD" tvg-logo="http://logos.ti7an.net/logos/Argentina/Canal%209.png" group-title="Noticias",ARG: El Nueve SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396869
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TV_Publica.png" group-title="Noticias",ARG: Television Publica FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396880
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TV_Publica.png" group-title="Noticias",ARG: Television Publica HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396879
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica Marcos Paz (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",TV Publica Marcos Paz (720p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463416
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Net TV" tvg-logo="http://logos.ti7an.net/logos/Argentina/Argentina/Net%20TV.png" group-title="Noticias",ARG: Net TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396896
-#EXTINF:-1 tvg-id="" tvg-name="NET TV (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",NET TV (720p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463377
-#EXTINF:-1 tvg-id="" tvg-name="NET TV (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",NET TV (720p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463378
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Link" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal 9 Link
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463316
 #EXTINF:-1 tvg-id="" tvg-name="Canal 9 Resistencia (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal 9 Resistencia (720p)
@@ -105,36 +57,20 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463317
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463318
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24 FHD" tvg-logo="http://logos.ti7an.net/logos/Argentina/A24.png" group-title="Noticias",ARG: A24 FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396862
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="http://logos.ti7an.net/logos/Argentina/A24.png" group-title="Noticias",ARG: A24 HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396861
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 SD" tvg-logo="http://logos.ti7an.net/logos/Argentina/A24.png" group-title="Noticias",ARG: A24 SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396860
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="http://logos.ti7an.net/logos/Argentina/C5N.png" group-title="Noticias",ARG: C5N FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396868
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="http://logos.ti7an.net/logos/Argentina/C5N.png" group-title="Noticias",ARG: C5N HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396867
-#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N SD" tvg-logo="http://logos.ti7an.net/logos/Argentina/C5N.png" group-title="Noticias",ARG: C5N SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396866
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias TN FHD" tvg-logo="http://logos.ti7an.net/logos/Argentina/todo_noticia_TN.png" group-title="Noticias",ARG: Todo Noticias TN FHD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396883
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias TN HD" tvg-logo="http://logos.ti7an.net/logos/Argentina/todo_noticia_TN.png" group-title="Noticias",ARG: Todo Noticias TN HD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396882
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias TN SD" tvg-logo="http://logos.ti7an.net/logos/Argentina/todo_noticia_TN.png" group-title="Noticias",ARG: Todo Noticias TN SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396881
 #EXTINF:-1 tvg-id="" tvg-name="RTN (Neuquén) (720p) [Not 24/7]" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",RTN (Neuquén) (720p) [Not 24/7]
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463397
 #EXTINF:-1 tvg-id="" tvg-name="Canal 26 (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal 26 (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463286
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 26 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Noticias",ARG: Canal 26 SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396885
 #EXTINF:-1 tvg-id="" tvg-name="ARG: LN+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",ARG: LN+
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396893
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV HD" tvg-logo="http://logos.ti7an.net/logos/Argentina/Cr%C3%B3nica_TV.png" group-title="Noticias",ARG: Cronica TV HD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396889
 #EXTINF:-1 tvg-id="" tvg-name="Canal 12 Web" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal 12 Web
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463277
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 San Juan (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal 4 San Juan (576p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463296
 #EXTINF:-1 tvg-id="" tvg-name="Canal E (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal E (720p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463319
 #EXTINF:-1 tvg-id="" tvg-name="Canal TDC" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal TDC
@@ -147,6 +83,8 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463334
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463387
 #EXTINF:-1 tvg-id="" tvg-name="TV Canal 72" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",TV Canal 72
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463413
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 San Juan (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Noticias",Canal 4 San Juan (576p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463296
 #EXTINF:-1 tvg-id="" tvg-name="Canal 3 La Pampa (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 3 La Pampa (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463288
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7 Neuquén (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 7 Neuquén (1080p)
@@ -187,34 +125,20 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463291
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463292
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 Del Pueblo [Not 24/7]" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 5 Del Pueblo [Not 24/7]
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463299
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Santa Fe (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 5 Santa Fe (240p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463300
 #EXTINF:-1 tvg-id="" tvg-name="Canal 50 Morteros" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 50 Morteros
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463302
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7 Jujuy" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 7 Jujuy
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463304
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7 Salta (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 7 Salta (720p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463307
 #EXTINF:-1 tvg-id="" tvg-name="Canal 7 Santiago del Estero (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 7 Santiago del Estero (720p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463308
-#EXTINF:-1 tvg-id="" tvg-name="Canal 79 La Costa (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 La Costa (240p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463309
 #EXTINF:-1 tvg-id="" tvg-name="Canal 79 Mar del Plata" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 Mar del Plata
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463310
-#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Puan (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 Puan (240p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463311
-#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Santa Clara del Mar (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 Santa Clara del Mar (240p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463312
 #EXTINF:-1 tvg-id="" tvg-name="Canal 79 Villa Maza" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 Villa Maza
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463313
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 Mar del Plata (720p) [Not 24/7]" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 8 Mar del Plata (720p) [Not 24/7]
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463314
-#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial (360p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal Provincial (360p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463321
 #EXTINF:-1 tvg-id="" tvg-name="Canal Pulpo TV" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal Pulpo TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463322
-#EXTINF:-1 tvg-id="" tvg-name="Celta TV (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Celta TV (240p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463329
 #EXTINF:-1 tvg-id="" tvg-name="Corrientes TV" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Corrientes TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463336
 #EXTINF:-1 tvg-id="" tvg-name="Itel TV Canal 2" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Itel TV Canal 2
@@ -225,8 +149,6 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463369
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463374
 #EXTINF:-1 tvg-id="" tvg-name="NG Federal" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",NG Federal
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463380
-#EXTINF:-1 tvg-id="" tvg-name="NG Federal (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",NG Federal (720p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463381
 #EXTINF:-1 tvg-id="" tvg-name="Neo TV" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Neo TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463375
 #EXTINF:-1 tvg-id="" tvg-name="Neox TV [Not 24/7]" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Neox TV [Not 24/7]
@@ -249,12 +171,22 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463425
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463427
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 La Rioja (480p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 13 La Rioja (480p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463279
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Santa Fe (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 5 Santa Fe (240p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463300
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 La Costa (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 La Costa (240p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463309
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Puan (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 Puan (240p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463311
+#EXTINF:-1 tvg-id="" tvg-name="Canal 79 Santa Clara del Mar (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal 79 Santa Clara del Mar (240p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463312
+#EXTINF:-1 tvg-id="" tvg-name="Canal Provincial (360p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Canal Provincial (360p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463321
+#EXTINF:-1 tvg-id="" tvg-name="Celta TV (240p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Celta TV (240p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463329
 #EXTINF:-1 tvg-id="" tvg-name="Radio Yguazú TV (480p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="General",Radio Yguazú TV (480p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463393
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Channel Latin America (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463340
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Channel Latin America (1080p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463341
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America Center (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Channel Latin America Center (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463343
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America Panregional HD (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Channel Latin America Panregional HD (1080p)
@@ -265,14 +197,14 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463348
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463384
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Pakapaka" tvg-logo="http://logos.ti7an.net/logos/Argentina/Pakapaka.png" group-title="Infantiles",ARG: Pakapaka
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396897
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America North (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Channel Latin America North (576p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463344
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr. Latin America (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Jr. Latin America (576p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463347
 #EXTINF:-1 tvg-id="" tvg-name="LAMIL35 TV (720p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",LAMIL35 TV (720p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463368
 #EXTINF:-1 tvg-id="" tvg-name="Xtrema Cartoons" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Xtrema Cartoons
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463429
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America North (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Channel Latin America North (576p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463344
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr. Latin America (576p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Infantiles",Disney Jr. Latin America (576p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463347
 #EXTINF:-1 tvg-id="" tvg-name="La 100 (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Música",La 100 (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463367
 #EXTINF:-1 tvg-id="" tvg-name="ARG: MEGA 90.9 Puro Rock" tvg-logo="https://la90fm.com/wp-content/uploads/2023/02/logob.png" group-title="Música",ARG: MEGA 90.9 Puro Rock
@@ -299,8 +231,6 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463389
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463271
 #EXTINF:-1 tvg-id="" tvg-name="Europa Europa (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Películas y Series",Europa Europa (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463359
-#EXTINF:-1 tvg-id="" tvg-name="Europa Europa (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Películas y Series",Europa Europa (1080p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463360
 #EXTINF:-1 tvg-id="" tvg-name="Film & Arts (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Películas y Series",Film & Arts (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463361
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Películas y Series",Sony Channel (1080p)
@@ -319,29 +249,23 @@ http://link123.lat:8080/Ada/BTU3vNJJD4v5/463430
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463431
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Cultura",El Gourmet (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463351
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Cultura",El Gourmet (1080p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463352
 #EXTINF:-1 tvg-id="" tvg-name="El Gourmet South (1080p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Cultura",El Gourmet South (1080p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463353
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Argentinisima" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Ac1e6-argentinisima.png" group-title="Cultura",ARG: Argentinisima
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396903
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Magazine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="Cultura",ARG: Magazine HD
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396895
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Telemax" tvg-logo="http://logos.ti7an.net/logos/Argentina/Telemax.png" group-title="Cultura",ARG: Telemax
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396899
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Tierramia TV" tvg-logo="http://logos.ti7an.net/logos/Argentina/tierramia_tv.png" group-title="Cultura",ARG: Tierramia TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/396900
 #EXTINF:-1 tvg-id="" tvg-name="Canal Universidad" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Cultura",Canal Universidad
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463326
 #EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Cultura",Telemax
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463410
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Magazine SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/640px-Ciudad_magazine_logo.png" group-title="Cultura",ARG: Magazine SD
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/396894
 #EXTINF:-1 tvg-id="" tvg-name="Argentinísima Satelital (540p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Cultura",Argentinísima Satelital (540p)
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463268
 #EXTINF:-1 tvg-id="" tvg-name="Canal Orbe 21" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Religioso",Canal Orbe 21
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463320
-#EXTINF:-1 tvg-id="" tvg-name="Canal Santa María (360p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Religioso",Canal Santa María (360p)
-http://link123.lat:8080/Ada/BTU3vNJJD4v5/463323
 #EXTINF:-1 tvg-id="" tvg-name="Unife TV" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Religioso",Unife TV
 http://link123.lat:8080/Ada/BTU3vNJJD4v5/463422
+#EXTINF:-1 tvg-id="" tvg-name="Canal Santa María (360p)" tvg-logo="https://png.pngtree.com/png-vector/20220511/ourmid/pngtree-round-country-flag-argentina-png-image_4570948.png" group-title="Religioso",Canal Santa María (360p)
+http://link123.lat:8080/Ada/BTU3vNJJD4v5/463323
